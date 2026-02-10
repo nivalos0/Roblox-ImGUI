@@ -1,5 +1,5 @@
 # ⚠️ This is discontinued, please use **ReGui** instead!
-# https://github.com/depthso/Dear-ReGui
+# ~~https://github.com/depthso/Dear-ReGui~~ ReGui has been deleted.
 
 ---
 
